@@ -1,4 +1,4 @@
 ### Notation
-pz -> Pole Zero plots
-IIR -> Infinite Impulse Response
-FIR -> Finite Impulse Response
+pz -> Pole Zero plots <br>
+IIR -> Infinite Impulse Response <br>
+FIR -> Finite Impulse Response <br>
